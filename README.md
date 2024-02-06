@@ -5,13 +5,12 @@ This is the Project for Module 5, which aims to integrate Python and SQL using t
 
 ### Clone project and open project folder in VS Code
 
-```bash
 git clone https://github.com/dgraves4/datafun-05-sql
 cd "C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql"
 code .
 
 # Add .gitignore file to root project folder
-    **Add .vscode/ and .venv/ to .gitignore**
+Add .vscode/ and .venv/ to .gitignore
 
 # Create and activate virtual environment
 
@@ -23,7 +22,7 @@ python -m venv .venv
 pip install pandas pyarrow
 pip freeze > requirements.txt
 
-# Initial Commit
+# Initial Commit to Github
 git add .
 git commit -m "Initial commit"
 git push origin main
