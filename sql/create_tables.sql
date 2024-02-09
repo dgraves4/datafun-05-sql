@@ -3,27 +3,28 @@
 -- DROP tables in reverse order of creation 
 -- DROP dependent tables (with foreign keys) first
 
-DROP TABLE IF EXISTS books;
-DROP TABLE IF EXISTS authors;
+DROP TABLE IF EXISTS movies;
+DROP TABLE IF EXISTS directors;
 
--- Create the books table
--- Note that the books table has a foreign key to the authors table
--- This means that the books table is dependent on the authors table
--- Be sure to create the standalone authors table BEFORE creating the books table.
+-- Create the movies table
+-- Note that the movies table has a foreign key to the directors table
+-- This means that the movies table is dependent on the directors table
+-- Be sure to create the standalone directors table BEFORE creating the movies table.
 
-CREATE TABLE books (
-    book_id TEXT PRIMARY KEY,
-    title TEXT,
-    year_published INTEGER,
-    author_id TEXT,
-    FOREIGN KEY (author_id) REFERENCES authors(author_id)
+CREATE TABLE movies (
+    movie_id TEXT PRIMARY KEY,
+    movie_title TEXT,
+    director_id TEXT,
+    release_year INTEGER,
+    genre TEXT,
+    FOREIGN KEY (director_id) REFERENCES directors(director_id)
 );
 
--- Create the authors table 
--- Note that the author table has no foreign keys, so it is a standalone table
+-- Create the director table 
+-- Note that the director table has no foreign keys, so it is a standalone table
 
-CREATE TABLE authors (
-    author_id TEXT PRIMARY KEY,
+CREATE TABLE directors (
+    director_id TEXT PRIMARY KEY,
     first_name TEXT,
     last_name TEXT,
     year_born INTEGER
