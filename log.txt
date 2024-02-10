@@ -119,3 +119,166 @@
 2024-02-09 18:23:43,508 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
 2024-02-09 18:23:43,509 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
 2024-02-09 18:23:43,509 - INFO - All SQL operations completed successfully
+2024-02-09 18:33:10,480 - INFO - Database created successfully.
+2024-02-09 18:33:10,491 - INFO - Tables created successfully.
+2024-02-09 18:33:10,516 - INFO - Data inserted successfully.
+2024-02-09 18:33:54,137 - INFO - Database created successfully.
+2024-02-09 18:33:54,148 - INFO - Tables created successfully.
+2024-02-09 18:33:54,170 - INFO - Data inserted successfully.
+2024-02-09 18:33:54,182 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:33:54,188 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:33:54,190 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:33:54,190 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:33:54,192 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:33:54,193 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:33:54,194 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:33:54,195 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:33:54,196 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:33:54,196 - INFO - All SQL operations completed successfully
+2024-02-09 18:35:34,880 - INFO - Database created successfully.
+2024-02-09 18:35:34,891 - INFO - Tables created successfully.
+2024-02-09 18:35:34,916 - INFO - Data inserted successfully.
+2024-02-09 18:35:34,929 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:35:34,936 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:35:34,937 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:35:34,938 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:35:34,939 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:35:34,939 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:35:34,940 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:35:34,940 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:35:34,942 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:35:34,942 - INFO - All SQL operations completed successfully
+2024-02-09 18:36:48,992 - INFO - Database created successfully.
+2024-02-09 18:36:49,003 - INFO - Tables created successfully.
+2024-02-09 18:36:49,027 - INFO - Data inserted successfully.
+2024-02-09 18:36:49,038 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:36:49,045 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:36:49,046 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:36:49,047 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:36:49,048 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:36:49,048 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:36:49,049 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:36:49,049 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:36:49,051 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:36:49,051 - INFO - All SQL operations completed successfully
+2024-02-09 18:38:00,317 - INFO - Database created successfully.
+2024-02-09 18:38:00,329 - INFO - Tables created successfully.
+2024-02-09 18:38:00,350 - INFO - Data inserted successfully.
+2024-02-09 18:38:00,359 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:38:00,365 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:38:00,366 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:38:00,367 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:38:00,368 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:38:00,369 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:38:00,369 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:38:00,370 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:38:00,371 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:38:00,371 - INFO - All SQL operations completed successfully
+2024-02-09 18:42:51,714 - INFO - Database created successfully.
+2024-02-09 18:42:51,726 - INFO - Tables created successfully.
+2024-02-09 18:42:51,748 - INFO - Data inserted successfully.
+2024-02-09 18:42:51,761 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:42:51,767 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:42:51,769 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:42:51,770 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:42:51,771 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:42:51,771 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:42:51,773 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:42:51,774 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:42:51,774 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:42:51,774 - INFO - All SQL operations completed successfully
+2024-02-09 18:43:51,688 - INFO - Database created successfully.
+2024-02-09 18:43:51,700 - INFO - Tables created successfully.
+2024-02-09 18:43:51,722 - INFO - Data inserted successfully.
+2024-02-09 18:43:51,733 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:43:51,739 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:43:51,740 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:43:51,741 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:43:51,742 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:43:51,742 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:43:51,743 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:43:51,743 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:43:51,744 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:43:51,744 - INFO - All SQL operations completed successfully
+2024-02-09 18:51:21,798 - INFO - Database created successfully.
+2024-02-09 18:51:21,809 - INFO - Tables created successfully.
+2024-02-09 18:51:21,832 - INFO - Data inserted successfully.
+2024-02-09 18:51:21,843 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:51:21,850 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:51:21,852 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:51:21,852 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:51:21,853 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:51:21,854 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:51:21,855 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:51:21,856 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:51:21,858 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:51:21,858 - INFO - All SQL operations completed successfully
+2024-02-09 18:54:23,526 - INFO - Database created successfully.
+2024-02-09 18:54:23,537 - INFO - Tables created successfully.
+2024-02-09 18:54:23,557 - INFO - Data inserted successfully.
+2024-02-09 18:54:23,567 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:54:23,573 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:54:23,575 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:54:23,576 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:54:23,577 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:54:23,578 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:54:23,578 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:54:23,579 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:54:23,581 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:54:23,581 - INFO - All SQL operations completed successfully
+2024-02-09 18:58:42,108 - INFO - Database created successfully.
+2024-02-09 18:58:42,121 - INFO - Tables created successfully.
+2024-02-09 18:58:42,142 - INFO - Data inserted successfully.
+2024-02-09 18:58:42,152 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 18:58:42,157 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 18:58:42,159 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 18:58:42,161 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 18:58:42,161 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 18:58:42,162 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 18:58:42,163 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 18:58:42,164 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 18:58:42,165 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 18:58:42,165 - INFO - All SQL operations completed successfully
+2024-02-09 19:00:07,277 - INFO - Database created successfully.
+2024-02-09 19:00:07,287 - INFO - Tables created successfully.
+2024-02-09 19:00:07,307 - INFO - Data inserted successfully.
+2024-02-09 19:00:07,318 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 19:00:42,870 - INFO - Database created successfully.
+2024-02-09 19:00:42,882 - INFO - Tables created successfully.
+2024-02-09 19:00:42,908 - INFO - Data inserted successfully.
+2024-02-09 19:00:42,920 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 19:00:42,926 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 19:00:42,927 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 19:00:42,929 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 19:00:42,930 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 19:00:42,931 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 19:00:42,931 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 19:00:42,932 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 19:00:42,933 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 19:00:42,933 - INFO - All SQL operations completed successfully
+2024-02-09 19:01:19,482 - INFO - Database created successfully.
+2024-02-09 19:01:19,494 - INFO - Tables created successfully.
+2024-02-09 19:01:19,517 - INFO - Data inserted successfully.
+2024-02-09 19:01:19,527 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 19:01:19,532 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 19:01:19,534 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 19:01:19,535 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 19:01:19,536 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 19:01:19,536 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 19:01:19,537 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 19:01:19,538 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 19:01:19,539 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 19:01:19,539 - INFO - All SQL operations completed successfully
+2024-02-09 19:03:53,391 - INFO - Database created successfully.
+2024-02-09 19:03:53,401 - INFO - Tables created successfully.
+2024-02-09 19:03:53,421 - INFO - Data inserted successfully.
+2024-02-09 19:03:53,430 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\create_tables.sql
+2024-02-09 19:03:53,436 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\insert_records.sql
+2024-02-09 19:03:53,439 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\update_records.sql
+2024-02-09 19:03:53,440 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\delete_records.sql
+2024-02-09 19:03:53,440 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_aggregation.sql
+2024-02-09 19:03:53,441 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_filter.sql
+2024-02-09 19:03:53,441 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_sorting.sql
+2024-02-09 19:03:53,442 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_group_by.sql
+2024-02-09 19:03:53,443 - INFO - Executed SQL from C:\Users\derek\OneDrive\Documents\44608 Data Analytics Fundamentals\Mod 5\Mod 5 Project\datafun-05-sql\sql\query_join.sql
+2024-02-09 19:03:53,443 - INFO - All SQL operations completed successfully

@@ -53,25 +53,28 @@ def insert_data_from_csv():
     except (sqlite3.Error, pd.errors.EmptyDataError, FileNotFoundError) as e:
         logging.exception("Error inserting data:")
 
-def execute_sql_from_file(db_filepath, sql_file, result_file=None):
+def execute_sql_from_file(db_filepath, sql_file):
     """Function to use Python to interact with the SQL database and execute SQL commands."""
-    with sqlite3.connect(db_filepath) as conn:
-        with open(sql_file, 'r') as file:
-            sql_script = file.read()
-        cursor = conn.cursor()
-        cursor.executescript(sql_script)
-        logging.info(f"Executed SQL from {sql_file}")
+    try:
+        with sqlite3.connect(db_filepath) as conn:
+            with open(sql_file, 'r') as file:
+                sql_script = file.read()
+            cursor = conn.cursor()
+            cursor.executescript(sql_script)
+            logging.info(f"Executed SQL from {sql_file}")
 
-        # Fetch the results if any
-        results = cursor.fetchall()
+            # Fetch the results if any
+            results = cursor.fetchall()
 
-        # If result_file is provided, save the results to a CSV file
-        if result_file and results:
-            df = pd.DataFrame(results)
-            df.to_csv(result_file, index=False)
-            logging.info(f"Saved results to {result_file}")
+            # Print the results to the console
+            if results:
+                print("Query results:")
+                for row in results:
+                    print(row)
 
-        return results
+            return results
+    except sqlite3.Error as e:
+        logging.exception(f"Error executing SQL from {sql_file}: {e}")
 
 def main():
     """Main function to execute SQL Module"""
@@ -79,7 +82,8 @@ def main():
     create_tables()
     insert_data_from_csv()
 
-    # Execute SQL operations and save results to CSV files
+    # Execute SQL operations and print results to console
+    execute_sql_from_file(db_file, sql_dir / 'create_tables.sql')
     execute_sql_from_file(db_file, sql_dir / 'insert_records.sql')
     execute_sql_from_file(db_file, sql_dir / 'update_records.sql')
     execute_sql_from_file(db_file, sql_dir / 'delete_records.sql')
@@ -91,8 +95,12 @@ def main():
 
     logging.info("All SQL operations completed successfully")
 
+
 if __name__ == "__main__":
     main()
+
+
+
 
 
 
