@@ -7,3 +7,4 @@ SELECT AVG(release_year) AS average_release_year
 FROM movies;
 
 
+

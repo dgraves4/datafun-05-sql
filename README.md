@@ -24,10 +24,43 @@ python -m venv .venv
 pip install pandas pyarrow
 pip freeze > requirements.txt
 ```
-### Initial Commit to Github
+### Initial and Subsequent Commits to Github
 
 ```bash
 git add .
 git commit -m "Initial commit"
 git push origin main
 ```
+
+## Database Schema
+
+The database schema consists of two created tables: `directors` and `movies`, with primary key as director_id. 
+
+### Directors Table
+
+| Column       | Type    | Description          |
+|--------------|---------|----------------------|
+| director_id  | TEXT    | Unique director ID   |
+| first_name   | TEXT    | Director's first name|
+| last_name    | TEXT    | Director's last name |
+| year_born    | INTEGER | Year of birth        |
+
+### Movies Table
+
+| Column       | Type    | Description          |
+|--------------|---------|----------------------|
+| movie_id     | INTEGER | Unique movie ID      |
+| movie_title  | TEXT    | Title of the movie   |
+| director_id  | TEXT    | ID of the director   |
+| release_year | INTEGER | Year of release      |
+| genre        | TEXT    | Movie genre          |
+
+## Contributing
+
+We welcome contributions to this project. If you have suggestions to improve the project or encounter issues, please open an issue or submit a pull request.
+
+## References & Acknowledgments
+
+Special thanks to OpenAI for assistance with troubleshooting and script debugging as well as schema design. Additional references used for this project include:
+
+- [Specification for Project 5 SQL Module](https://github.com/denisecase/datafun-05-spec)

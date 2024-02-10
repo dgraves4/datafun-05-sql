@@ -20,3 +20,4 @@ VALUES
     (8, 'Jurassic Park', '3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f', 1993, 'Science Fiction'),
     (9, 'Blade Runner', '4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a', 1982, 'Science Fiction'),
     (10, 'The Terminator', '5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b', 1984, 'Science Fiction');
+

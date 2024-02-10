@@ -1,7 +1,8 @@
 -- Delete a movie record
 DELETE FROM movies
-WHERE movie_id = '14';
+WHERE movie_id = '1';
 
 -- Delete a director record
 DELETE FROM directors
-WHERE director_id = '0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5';
+WHERE director_id = '1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d';
+

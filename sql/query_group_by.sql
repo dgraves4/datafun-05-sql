@@ -2,3 +2,4 @@
 SELECT genre, COUNT(*) AS num_movies
 FROM movies
 GROUP BY genre;
+

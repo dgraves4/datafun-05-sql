@@ -6,4 +6,4 @@ WHERE release_year > 2010;
 -- Select all movies directed by Quentin Tarantino
 SELECT *
 FROM movies
-WHERE director_id = '3b4c5d6e-7f8a-9b0c-1d2e-3f4a5b6c7d8';
+WHERE director_id = '2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e';
